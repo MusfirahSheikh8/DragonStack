@@ -1,0 +1,25 @@
+Configuring dragonstackdb
+CREATE TABLE
+ALTER TABLE
+CREATE TABLE
+CREATE TABLE
+⚙️ Existing trait - id: 1 (backgroundColor: black)
+⚙️ Existing trait - id: 2 (backgroundColor: blue)
+⚙️ Existing trait - id: 3 (backgroundColor: green)
+⚙️ Existing trait - id: 4 (backgroundColor: multicolor)
+⚙️ Existing trait - id: 5 (backgroundColor: white)
+⚙️ Existing trait - id: 6 (backgroundColor: copper)
+⚙️ Existing trait - id: 7 (pattern: plain)
+⚙️ Existing trait - id: 8 (pattern: striped)
+⚙️ Existing trait - id: 9 (pattern: spotted)
+⚙️ Existing trait - id: 10 (build: slender)
+⚙️ Existing trait - id: 11 (build: stocky)
+⚙️ Existing trait - id: 12 (build: sporty)
+⚙️ Existing trait - id: 13 (build: skinny)
+⚙️ Existing trait - id: 14 (size: tiny)
+⚙️ Existing trait - id: 15 (size: small)
+⚙️ Existing trait - id: 16 (size: medium)
+⚙️ Existing trait - id: 17 (size: large)
+⚙️ Existing trait - id: 18 (size: enormous)
+🟢 Done inserting and listing all trait IDs.
+dragonstackdb configured
